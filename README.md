@@ -212,7 +212,8 @@ github repo
 
 ## Authors :black_nib:
 
-* __MJ Johnson__ - <[@mj31508](https://github.com/mj31508)>
+
+* __Ohiri Prosper__ - <[@ProsperUgonna](https://github.com/prosperugonna)>
 * __David John Coleman II__ - <[davidjohncoleman.com](http://www.davidjohncoleman.com/)> | <[@djohncoleman](https://twitter.com/djohncoleman)>
 * __Kimberly Wong__ - <[kjowong](https://github.com/kjowong)> | <[@kjowong](https://twitter.com/kjowong)> | <[kjowong@gmail.com](kjowong@gmail.com)>
 * __Carrie Ybay__ - <[hicarrie](https://github.com/hicarrie)> | <[@hicarrie_](https://twitter.com/hicarrie_)>
